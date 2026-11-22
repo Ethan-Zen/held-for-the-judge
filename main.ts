@@ -24,11 +24,11 @@ const MAX_POINTS = 280;
  */
 const LINES: readonly string[] = [
   "Nobody is waiting here.",
-  "The sentence you are in will not be asked for twice.",
-  "A kettle, too hot to hold, is set down; the room goes on without it.",
-  "A chair, a window, rain that knows how long it will last.",
-  "Heat leaves it slowly, for no one.",
-  "You can set it down too.",
+  "The kettle has been off the heat a while, and no one is coming back for it.",
+  "Rain starts, stops, starts again on the window.",
+  "A chair keeps its shape.",
+  "A clock is wrong by four minutes and no one minds.",
+  "You can set this down too.",
   "It will keep.",
 ];
 
